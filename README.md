@@ -2,6 +2,10 @@
 
 Welcome to my **Machine Learning Journey** repository! This project documents my step-by-step exploration of machine learning and artificial intelligence. As a Python developer and aspiring AI engineer, I'm sharing my code, projects, and experiences in this repository to inspire others and track my personal growth.
 
+## Follow My Journey
+
+Also, I share my progress and updates on [LinkedIn](https://www.linkedin.com/in/amirhossein-khazaee-asl-9b7b92323). Feel free to connect and follow along!
+
 ## 📚 Key Features:
 - **Roadmap**: A comprehensive 5-phase learning plan covering prerequisites, programming, AI fundamentals, and advanced topics like NLP, Computer Vision, and Reinforcement Learning.
 - **Well-Organized Code**: Clean and structured Python scripts, Jupyter Notebooks, and real-world projects categorized by learning phases.
