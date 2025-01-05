@@ -44,9 +44,3 @@ Exploring specialized machine learning topics:
 This repository is not just a collection of code—it's a **personal learning log**, a **resource** for anyone starting their own ML journey, and a **portfolio** to showcase my skills to potential collaborators and employers.
 
 ### 🚀 Let's learn and grow together! If you find this repository helpful, feel free to contribute, share your thoughts, or collaborate!
-
-### 🚀 Usage:
-To run the project, clone the repository and run the scripts in the `Phase_1_Math_Foundations` directory:
-```bash
-python Phase_1_Math_Foundations/gradient_descent_v1.py
-python Phase_1_Math_Foundations/gradient_descent_v2.py
