@@ -54,3 +54,21 @@ class LinearRegression:
                 break
 
         return f'm0 : {m0} , b0 : {b0}'
+class Newton :
+    def __init__(self,f,df):
+        self.f =f
+        self.df =df
+    def calculate(self, x0, epsilon=0.001, max_iter=10):
+        x = x0
+        for i in range(max_iter):
+            fx = self.f(x)
+            dfx = self.df(x)
+            if abs(fx) < epsilon:
+                return x
+            if dfx == 0:
+                raise ValueError("Derivative is zero")
+            x_new = x - fx / dfx
+            if abs(x_new - x) < epsilon:
+                return x_new
+            x = x_new
+        raise ValueError("Method did not converge within the maximum iterations")
