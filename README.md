@@ -44,20 +44,3 @@ Exploring specialized machine learning topics:
 This repository is not just a collection of code—it's a **personal learning log**, a **resource** for anyone starting their own ML journey, and a **portfolio** to showcase my skills to potential collaborators and employers.
 
 ### 🚀 Let's learn and grow together! If you find this repository helpful, feel free to contribute, share your thoughts, or collaborate!
-
-
-## 🧑‍💻 Gradient Descent Optimization Project
-
-This project demonstrates the **gradient descent** optimization algorithm applied to minimize a mathematical function `f(x) = (x-3)^2 + 5`. The goal is to demonstrate how gradient descent works through multiple iterations of optimization.
-
-### 📝 Description:
-- **Objective**: The project aims to find the minimum of the function by iteratively updating the value of `x` based on the gradient.
-- **Versions**:
-  - **Version 1**: A basic gradient descent implementation using a fixed learning rate.
-  - **Version 2**: An enhanced version with additional features and improved flexibility in the stopping condition.
-
-### 🚀 Usage:
-To run the project, clone the repository and run the scripts in the `Phase_1_Math_Foundations` directory:
-```bash
-python Phase_1_Math_Foundations/gradient_descent_v1.py
-python Phase_1_Math_Foundations/gradient_descent_v2.py
