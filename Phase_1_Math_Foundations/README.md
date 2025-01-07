@@ -104,9 +104,9 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 ---
 
 ## 🔗 **Connect With Me**  
-- LinkedIn: [Amirhossein Khazaee Asl](https://www.linkedin.com/in/amirhossein-khazaee-asl)  
+- LinkedIn: [Amirhossein Khazaee Asl](https://www.linkedin.com/in/amirhossein-khazaee-asl-9b7b92323/)  
 - GitHub: [Amirhossein Khazaee](https://github.com/AmirhosseinKhazaee)  
-- Email: amirhossein.khazaee@example.com  
+- Email: khazaeeaslamirhossein@gmail.com 
 
 ---
 
